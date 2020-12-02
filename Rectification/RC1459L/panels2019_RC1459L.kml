@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="267">
+        <Placemark id="269">
+            <name>p09_2019_RC1459L</name>
+            <Point id="268">
+                <coordinates>-112.64960645196444,36.37450133647476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>p05_2019_RC1459L</name>
+            <Point id="270">
+                <coordinates>-112.64962929000795,36.374594258943965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>p20_2019_RC1459L</name>
+            <Point id="272">
+                <coordinates>-112.64941198751796,36.37445257340443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>p07_2019_RC1459L</name>
+            <Point id="274">
+                <coordinates>-112.64937466548717,36.37436124480743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>p01_2019_RC1459L</name>
+            <Point id="276">
+                <coordinates>-112.64950639910916,36.374381805280365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>p04_2019_RC1459L</name>
+            <Point id="278">
+                <coordinates>-112.6494381506321,36.37433563856222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>p06_2019_RC1459L</name>
+            <Point id="280">
+                <coordinates>-112.64951918299248,36.37431299788519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>p12_2019_RC1459L</name>
+            <Point id="282">
+                <coordinates>-112.64951613994887,36.37418938371294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>p10_2019_RC1459L</name>
+            <Point id="284">
+                <coordinates>-112.64945919533123,36.37414591448243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>p06a_2019_RC1459L</name>
+            <Point id="286">
+                <coordinates>-112.64952021546654,36.37432326574845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>p04a_2019_RC1459L</name>
+            <Point id="288">
+                <coordinates>-112.64942646115449,36.37432389493793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>p07a_2019_RC1459L</name>
+            <Point id="290">
+                <coordinates>-112.6493751735491,36.374360755018756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>RC1459L_NE_max</name>
+            <Point id="292">
+                <coordinates>-112.64904507759327,36.374868215607215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>RC1459L_NE_min</name>
+            <Point id="294">
+                <coordinates>-112.64995685678635,36.37387248710335,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

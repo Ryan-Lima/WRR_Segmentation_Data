@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="71">
+        <Placemark id="73">
+            <name>P12_2017_RC1227R</name>
+            <Point id="72">
+                <coordinates>-112.50926990192717,36.24454422597609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>P05_2017_RC1227R</name>
+            <Point id="74">
+                <coordinates>-112.50885920738158,36.24458259898742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>P16_2017_RC1227R</name>
+            <Point id="76">
+                <coordinates>-112.50800398513071,36.24467159409033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>P04_2017_RC1227R</name>
+            <Point id="78">
+                <coordinates>-112.50754602540722,36.2446258281053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>P15_2017_RC1227R</name>
+            <Point id="80">
+                <coordinates>-112.50754687614254,36.244515652355254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>P17_2017_RC1227R</name>
+            <Point id="82">
+                <coordinates>-112.50682799369544,36.244256678221774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>p1 _2017_RC1227R</name>
+            <Point id="84">
+                <coordinates>-112.50812121804105,36.24410384377702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>p11_2017_RC1227R</name>
+            <Point id="86">
+                <coordinates>-112.50751224393329,36.24361152257054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>p18_2017_RC1227R</name>
+            <Point id="88">
+                <coordinates>-112.50724107340305,36.24363330239624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>RC1227R_NE_max</name>
+            <Point id="90">
+                <coordinates>-112.5064994104319,36.244949403511846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>RC1227R_NE_min</name>
+            <Point id="92">
+                <coordinates>-112.50959452634132,36.2433308386113,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

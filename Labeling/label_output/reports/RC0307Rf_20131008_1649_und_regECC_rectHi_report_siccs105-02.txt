@@ -1,0 +1,7 @@
+Image: RC0307Rf_20131008_1649_und_regECC_rectHi
+Number of Pixels in image =2986600
+
+Class: percentage of pixels
+Not_sandbar: 0.8710881939329003
+Sandbar: 0.1289118060670997
+Processing time (mins): 0.88631953

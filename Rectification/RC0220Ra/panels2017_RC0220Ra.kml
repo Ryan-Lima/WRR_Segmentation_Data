@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="119">
+        <Placemark id="121">
+            <name>p07_2017_RC0220Ra</name>
+            <Point id="120">
+                <coordinates>-111.76066023595884,36.61260111175202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>p09_2017_RC0220Ra</name>
+            <Point id="122">
+                <coordinates>-111.76044496546172,36.612509408927025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>p01_2017_RC0220Ra</name>
+            <Point id="124">
+                <coordinates>-111.76021004106747,36.61256787896753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>p08_2017_RC0220Ra</name>
+            <Point id="126">
+                <coordinates>-111.76022343346766,36.61237427621115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>p05_2017_RC0220Ra</name>
+            <Point id="128">
+                <coordinates>-111.76000664930935,36.61263353675868,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>p08_2017_RC0220Ra</name>
+            <Point id="130">
+                <coordinates>-111.76004825356627,36.61273526825522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>p11_2017_RC0220Ra</name>
+            <Point id="132">
+                <coordinates>-111.75997887927461,36.61301532450709,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>p03_2017_RC0220Ra</name>
+            <Point id="134">
+                <coordinates>-111.7599985331626,36.613280158844724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>p06_2017_RC0220Ra</name>
+            <Point id="136">
+                <coordinates>-111.76025364005243,36.61296070140231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>p02_2017_RC0220Ra</name>
+            <Point id="138">
+                <coordinates>-111.76045635902224,36.61295734436485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>p12_2017_RC0220Ra</name>
+            <Point id="140">
+                <coordinates>-111.76017840786486,36.61282053341322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>RC0220Ra_NE_max</name>
+            <Point id="142">
+                <coordinates>-111.75964241924292,36.61355005920214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>RC0220Ra_NE_min</name>
+            <Point id="144">
+                <coordinates>-111.76099660735224,36.612104919597186,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="45">
+        <Placemark id="47">
+            <name>p11_2017_RC0307Rf</name>
+            <Point id="46">
+                <coordinates>-111.84739590281548,36.51604837722274,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>p4_2017_RC0307Rf</name>
+            <Point id="48">
+                <coordinates>-111.84760026746397,36.51620357308469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>p3_2017_RC0307Rf</name>
+            <Point id="50">
+                <coordinates>-111.8476483768248,36.51635643418565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>p2_2017_RC0307Rf</name>
+            <Point id="52">
+                <coordinates>-111.84783346601746,36.51658081613289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>p10_2017_RC0307Rf</name>
+            <Point id="54">
+                <coordinates>-111.84732441461799,36.51680857251471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>p9_2017_RC0307Rf</name>
+            <Point id="56">
+                <coordinates>-111.84710607123483,36.51686400718585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>p7_2017_RC0307Rf</name>
+            <Point id="58">
+                <coordinates>-111.84795912653911,36.516056156261946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>p8_2017_RC0307Rf</name>
+            <Point id="60">
+                <coordinates>-111.84766466359935,36.51592006941352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>p1_2017_RC0307Rf</name>
+            <Point id="62">
+                <coordinates>-111.84791397210549,36.51565473337991,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>p12_2017_RC0307Rf</name>
+            <Point id="64">
+                <coordinates>-111.84796541330832,36.515436382130204,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>RC0307Rf_NE_max</name>
+            <Point id="66">
+                <coordinates>-111.84677086750101,36.517134184938186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>RC0307Rf_NE_min</name>
+            <Point id="68">
+                <coordinates>-111.84830060556322,36.51516620093195,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

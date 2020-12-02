@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="95">
+        <Placemark id="97">
+            <name>p12 _2017_RC1459L</name>
+            <Point id="96">
+                <coordinates>-112.64964070894062,36.37463892669865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>p11 _2017_RC1459L</name>
+            <Point id="98">
+                <coordinates>-112.64959466989137,36.37458070032564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>p17 _2017_RC1459L</name>
+            <Point id="100">
+                <coordinates>-112.64957420689048,36.374409499132874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>p16 _2017_RC1459L</name>
+            <Point id="102">
+                <coordinates>-112.64950332975715,36.374137766862596,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>p15 _2017_RC1459L</name>
+            <Point id="104">
+                <coordinates>-112.6495307093889,36.37404955623604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>p1  _2017_RC1459L</name>
+            <Point id="106">
+                <coordinates>-112.64940788153264,36.37414669788531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>p10 _2017_RC1459L</name>
+            <Point id="108">
+                <coordinates>-112.64937228531014,36.374291647213695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>p04 _2017_RC1459L</name>
+            <Point id="110">
+                <coordinates>-112.6494156226569,36.37440644339504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>p05 _2017_RC1459L</name>
+            <Point id="112">
+                <coordinates>-112.64936759952548,36.37449787187954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>RC1459L_NE_max</name>
+            <Point id="114">
+                <coordinates>-112.64903715003219,36.374913002025664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>RC1459L_NE_min</name>
+            <Point id="116">
+                <coordinates>-112.64996695560647,36.37377650556451,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

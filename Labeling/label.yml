@@ -1,0 +1,21 @@
+name: label
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - pydensecrf
+  - cython
+  - numpy
+  - Pillow
+  - scipy
+  - matplotlib
+  - scikit-image
+  - scikit-learn
+  - opencv
+  - ipython
+  - jupyter
+  - tqdm
+  - s3fs
+  - gdal
+  - rasterio
